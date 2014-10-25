@@ -1,0 +1,4 @@
+D:\GitHub Stuff\Getrix VM\Getrix VM\bin\Release\Getrix VM.exe
+D:\GitHub Stuff\Getrix VM\Getrix VM\bin\Release\Getrix VM.pdb
+D:\GitHub Stuff\Getrix VM\Getrix VM\obj\x86\Release\Getrix VM.exe
+D:\GitHub Stuff\Getrix VM\Getrix VM\obj\x86\Release\Getrix VM.pdb
